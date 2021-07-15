@@ -4,7 +4,7 @@ A usefull proxy scrapper for http, socks4 and socks5.
 
 ## Instalation
 ### Linux
-1. >git clone 
+1. >git clone https://github.com/YuIshigami-kun/Proxy-Scrapper.git
 2. >cd Proxy-Scrapper
 3. >python3 -m pip install -r requirements.txt
 
