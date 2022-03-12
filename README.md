@@ -1,4 +1,4 @@
-# Proxy-Scrapper
+# Proxy-Scrapper (broken)
 A usefull proxy scrapper for http, socks4 and socks5.
 
 
